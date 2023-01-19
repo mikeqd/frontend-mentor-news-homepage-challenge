@@ -33,8 +33,8 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mikeqd/news-homepage-challenge-solution.git)
-- Live Site URL: [Add live site URL here](https://mikeqd.github.io/news-homepage-challenge-solution/)
+- Solution URL: [Solution URL](https://github.com/mikeqd/news-homepage-challenge-solution.git)
+- Live Site URL: [Live Site URL](https://mikeqd.github.io/news-homepage-challenge-solution/)
 
 ## My process
 
